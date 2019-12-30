@@ -1,0 +1,15 @@
+CS2261 Object Oriented Programming
+Summer 2018
+Nelson Su
+
+Stopwatch Project
+
+Program simulates a stopwatch for measuring time.
+Program has get methods for startClock and endClock.
+A constructor initializes startClock with current time.
+A method starts the timer by resetting the startClock to current time.
+A method stops the timer by setting endClock to current time.
+A method returns elapsed time in milliseconds.
+
+Using the created methods above, the program measures the execution time of
+sorting 10000 random numbers in an array using bubble sort algorithm.
