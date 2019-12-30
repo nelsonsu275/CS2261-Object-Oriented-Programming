@@ -1,0 +1,17 @@
+CS2261 Object Oriented Programming
+Summer 2018
+Nelson Su
+
+Project 1 Java Credit Card Number Validation
+
+Program prompts user for a credit card number to see if it is valid.
+A long integer is accepted.
+Credit card number must be:
+- Between 13-16 characters.
+- Start with 4, 5, 37, or 6
+Program performs Luhn check or Mod 10 check algorithm to validate number:
+Every second digit from right to left is doubled. If any doubled digit become two-digit, add the two digits together.
+Add all digits together.
+All all digits in odd places from right to left.
+Add the two sums together.
+If this number is divisible by 10, the number is valid. Otherwise, it is invalid.
