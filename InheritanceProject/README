@@ -1,0 +1,13 @@
+CS2261 Object Oriented Programming
+Summer 2018
+Nelson Su
+
+Inheritance Project
+
+This program creates an abstract class called Machine with
+3 subclasses (Printer, Scanner, and Smartphone) to inherit
+the fields of the Machine superclass. Each machine will have
+setters and getters for the machine's name, price, weight,
+and description. The main function will create an array of 10
+Machine objects and set the details of each machine using setters.
+Afterwards, each machine and their information is displayed using getters.
