@@ -1,0 +1,13 @@
+CS2261 Object Oriented Programming
+Summer 2018
+Nelson Su
+
+Chocolates Java Project
+
+A child is located in the center of a 2 dimensional array. The 2 dimensional array
+has a number of chocolates in each index. If there is no center, child will be placed
+at the highest number of chocolates near the center. The program has the child eat
+chocolates from where it started. Then child moves to either left, right, up, or down
+to the next highest number of chocolates and eats it. This iterates until there are
+no more moves to take where the child can eat more chocolates. Once the child stops
+eating chocolates, the chocolate pieces eaten will be summed and displayed at the end.
